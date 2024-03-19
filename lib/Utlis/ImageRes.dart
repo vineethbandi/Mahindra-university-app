@@ -1,0 +1,36 @@
+class ImageRes {
+  static const String logo = "assets/images/logo.png";
+  static const String menuIcon = "assets/images/menu_icon.png";
+  static const String slider1 = "assets/images/slider1.png";
+  static const String slider2 = "assets/images/slider2.png";
+  static const String slider3 = "assets/images/slider3.png";
+  static const String grid1 = "assets/images/grid1.png";
+  static const String grid2 = "assets/images/grid2.png";
+  static const String processor = "assets/images/processor.png";
+  static const String school = "assets/images/school.png";
+  static const String video = "assets/images/video.png";
+  static const String successStory = "assets/images/success_story.png";
+  static const String backArrow = "assets/images/arrow_back.png";
+  static const String cognizantImage = "assets/images/cognizant.png";
+  static const String fbImage = "assets/images/fb.png";
+  static const String instImage = "assets/images/inst.png";
+  static const String bottomBgImage = "assets/images/bottomBg.png";
+  static const String research1Image = "assets/images/Research1.png";
+  static const String research2Image = "assets/images/Research2.png";
+  static const String capgeminiImage = "assets/images/capgemini.png";
+  static const String technipFMCImage = "assets/images/technipFMC.png";
+  static const String techMahindraImage = "assets/images/techMahindra.png";
+  static const String dstImage = "assets/images/dst.png";
+  static const String sterliteTechImage = "assets/images/sterliteTech.png";
+  static const String forlimImage = "assets/images/forlim.jpg";
+  static const String lineImage = "assets/images/line.png";
+  static const String ciscoImage = "assets/images/cisco.png";
+  static const String byjusImage = "assets/images/byjus.png";
+  static const String appLogoImage = "assets/images/appLogo.png";
+  static const String tiwtterImage = "assets/images/tiwtter.png";
+  static const String LinkedinImage = "assets/images/Linkedin.png";
+  static const String youTubeImage = "assets/images/youTube.png";
+  static const String rectangleImage = "assets/images/Rectangle.png";
+  static const String galleryImage = "assets/images/gallery.png";
+  static const String cameraImage = "assets/images/camera.png";
+}
