@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369771719889",
+    "project_id": "mahindrauniversity-54bfd",
+    "storage_bucket": "mahindrauniversity-54bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369771719889:android:2da34209bd2981f781e9f0",
+        "android_client_info": {
+          "package_name": "com.mahindra_university"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrFMJVMS0uulqGkVUwPbdDeWfJ617tOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
